@@ -15,7 +15,7 @@ html, body, h1 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(rgba(10, 10, 10, 0.6), rgba(0, 0, 0, 0.9)), repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px), url("https://images.unsplash.com/photo-1506399558188-acca6f8cbf41?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=7118759521e3184778a3b5e010e202c6");
+  background: linear-gradient(rgba(10, 10, 10, 0.6), rgba(0, 0, 0, 0.9)), repeating-linear-gradient(0, transparent, transparent 2px, black 3px, black 3px), url("https://ugc.kn3.net/i/760x/http://31.media.tumblr.com/e850a34234b02d2ccece68c65aa8338a/tumblr_msfcd5LYdO1s3h0c7o1_500.gif");
   background-size: cover;
   background-position: center;
   z-index: 1;
